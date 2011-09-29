@@ -16,5 +16,5 @@ environmental variables are set. For instance on [line 7][2] you will
 find `/bin/blog_unicorn` that is a wrapper script created with [RVM][1].
 
 
-[1] : https://rvm.beginrescueend.com/
-[2] : https://github.com/iansheridan/dasypygal-god-configs/blob/master/config/unicorn-sinatra-app.god#L7
+[1]: https://rvm.beginrescueend.com/
+[2]: https://github.com/iansheridan/dasypygal-god-configs/blob/master/config/unicorn-sinatra-app.god#L7
